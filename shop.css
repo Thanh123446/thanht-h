@@ -1,0 +1,91 @@
+{
+ 
+box
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.intro{
+    background-image: url(anhb6/shop.jpg);
+    background-position: 100px;
+    font-size: 30px;
+    color: rgb(212, 255, 0);
+    opacity: 0,9;
+
+}
+.intro h2{
+    text-transform: uppercase;
+
+}
+#brand{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+
+
+}
+header{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    color: aqua;
+    border-radius: 5px;
+
+}
+nav{
+    float: left;
+    width: 40%;
+    height:40px;
+    background-color: #666;
+padding: 20px;
+}
+nav ul{
+    list-style-type: none;
+    font-size: 20px;
+
+}
+ nav h3{
+font-size: 30px;
+color: black;
+
+}
+nav form input select{
+width: 45%;
+height: 30px;
+}
+nav form label{
+margin-right:20px;
+font-size: 15px;
+}
+article{
+    float: left;
+    width: 60%;
+    padding: 20px;
+    background-image:  url(anhb6/map.jpg);
+    background-position: 0px;
+opacity: 0.9;
+height: 300px;
+
+}
+article h1{
+font-size: 50;
+color: blanchedalmond;
+margin-left: 50px;
+}
+article a{
+    margin-left: 50px;
+    color: bisque;
+    font-size: 25px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+footer{
+    width: 20px;
+    height: 40px;
+    text-align: center;
+    color: royalblue;
+    background-color: chartreuse;
+    padding: 20px;
+    
+}
+
